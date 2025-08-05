@@ -21,7 +21,17 @@
 - 成功接收并打印 x, y, 角度（theta）
 - 学习 callback 回调函数及订阅机制
 
----
+
+## Day 6 总结
+
+- ✅ 新建 `turtle_follower.py` 实现闭环控制小乌龟
+- 🔁 学习了订阅 + 发布结合的 ROS2 节点结构
+- 💡 理解了“节点 → 消息 → 话题” 的完整流程
+
+📂 文件列表：
+- `turtle_follower.py`
+- `pose_listener.py`
+- `turtle_publisher.py`
 
 ## ✅ 后续计划
 
